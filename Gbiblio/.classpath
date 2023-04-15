@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="dist/Bibal_Diallo_Janati_Code_Netbeans.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-action-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-autocomplete-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-common-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-core-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-graphics-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-painters-1.6.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-plaf-1.6.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
